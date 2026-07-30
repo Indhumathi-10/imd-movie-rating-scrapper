@@ -18,3 +18,19 @@ IMDB Movie Scraper is a web scraping project that extracts movie details from IM
 - Pandas
 
 ## Project Structure
+
+## Project Structure
+
+```text
+imdb movie/
+│
+├── app.py
+├── README.md
+├── style.css
+├── templates/
+│   └── index.html
+├── imdb_movies_20260111_223131.csv
+├── imdb_movies_20260111_223609.csv
+├── imdb_movies_20260121_184940.csv
+└── imdb_movies_20260121_200757.csv
+```
